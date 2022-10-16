@@ -1,4 +1,4 @@
-module github.com/dgzlopes/xk6-notification
+module github.com/Maksimall89/xk6-notification
 
 go 1.16
 
